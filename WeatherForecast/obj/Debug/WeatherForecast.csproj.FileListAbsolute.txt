@@ -1,0 +1,9 @@
+c:\users\qinte\documents\visual studio 2015\Projects\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+c:\users\qinte\documents\visual studio 2015\Projects\WeatherForecast\bin\Debug\WeatherForecast.exe
+c:\users\qinte\documents\visual studio 2015\Projects\WeatherForecast\bin\Debug\WeatherForecast.pdb
+c:\users\qinte\documents\visual studio 2015\Projects\WeatherForecast\obj\Debug\WeatherForecast.csprojResolveAssemblyReference.cache
+c:\users\qinte\documents\visual studio 2015\Projects\WeatherForecast\obj\Debug\WeatherForecast.Form1.resources
+c:\users\qinte\documents\visual studio 2015\Projects\WeatherForecast\obj\Debug\WeatherForecast.Properties.Resources.resources
+c:\users\qinte\documents\visual studio 2015\Projects\WeatherForecast\obj\Debug\WeatherForecast.csproj.GenerateResource.Cache
+c:\users\qinte\documents\visual studio 2015\Projects\WeatherForecast\obj\Debug\WeatherForecast.exe
+c:\users\qinte\documents\visual studio 2015\Projects\WeatherForecast\obj\Debug\WeatherForecast.pdb
